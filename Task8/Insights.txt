@@ -1,0 +1,16 @@
+Sales Dashboard Insights — Superstore Dataset
+
+1.Overall Performance:
+The total sales reached ₹887.87K with a total profit of ₹108.78K, reflecting a strong sales volume and steady profitability across regions.
+
+2.Regional Sales Trends:
+The West region outperformed all others, generating the highest revenue, followed by the East region. The Central and South regions contributed comparatively lower sales, highlighting potential areas for sales improvement.
+
+3.Category-Wise Insights:
+The Technology category dominates overall sales with 38.14% share, followed by Furniture (32.63%) and Office Supplies (29.23%), showing higher consumer demand for technology-related products.
+
+4.Monthly Sales Behavior:
+Monthly sales exhibit a slight downward trend after the initial months of the year, suggesting a need for stronger marketing and promotional strategies to boost mid-year performance.
+
+5.Profit Margin & KPIs:
+The dashboard reflects a Profit Margin of ₹48.63K and an average sales value of ₹219.82, indicating a solid base for consistent growth. However, deeper profit optimization is required in lower-performing regions.
